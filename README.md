@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVA,DB**
 
-- 👨‍💻 All of my information are available at [https://(https://)
+- 👨‍💻 All of my information are available at [[https://(https://)](https://jihoooooooon.github.io/)
 
 - 💬 Ask me about **Java**
 
