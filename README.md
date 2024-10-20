@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **JAVA,DB**
 
-- 👨‍💻 All of my information are available at (https://jihoooooooon.github.io/)
-
+- 👨‍💻 All of my information are available at ?
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **joseph0037@naver.com**
