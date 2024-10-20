@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ham jihoon</h1>
 <h3 align="center">BackEnd Dev</h3>
 
-- 🌱 I’m currently learning **React,Selenium**
+- 🌱 I’m currently learning **JAVA,DB**
 
 - 👨‍💻 All of my projects are available at [https://(https://)
-
-- 📝 I regularly write articles on [https://](https://woosy.tistory.com)
 
 - 💬 Ask me about **Java**
 
