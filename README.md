@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Choi hyunwoong</h1>
+<h1 align="center">Hi 👋, I'm Ham jihoon</h1>
 <h3 align="center">BackEnd Dev</h3>
 
 - 🌱 I’m currently learning **React,Selenium**
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **coldplay__@naver.com**
+- 📫 How to reach me **joseph0037@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
